@@ -1,4 +1,4 @@
-# Golden Cross Trend Strategy
+# Vertex
 
 ## Strategy
 
